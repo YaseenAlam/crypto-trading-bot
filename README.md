@@ -378,9 +378,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Yaseen**
 - Computer Science Student @ California State University Dominguez Hills
-- Cybersecurity Focus | Harvard CS50 Certified
-- [GitHub](https://github.com/YOUR_USERNAME)
-
 ---
 
 <p align="center">
