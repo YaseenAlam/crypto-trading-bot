@@ -28,7 +28,7 @@ This project is a fully autonomous cryptocurrency trading bot built in Python th
 
 The bot features a "brain" system that remembers all trades, tracks performance metrics, adjusts its strategy based on outcomes, and implements risk management to protect capital.
 
-![Alt Text]("Diagram.png")
+![Alt Text](Diagram.png)
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                        SMART TRADER v4                              │
