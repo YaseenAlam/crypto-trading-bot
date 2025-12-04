@@ -28,16 +28,17 @@ This project is a fully autonomous cryptocurrency trading bot built in Python th
 
 The bot features a "brain" system that remembers all trades, tracks performance metrics, adjusts its strategy based on outcomes, and implements risk management to protect capital.
 
+![Alt Text]([path/to/image.jpg](https://ibb.co/hxcR4Qxs) "")
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                        SMART TRADER v4                              │
 ├─────────────────────────────────────────────────────────────────────┤
-│  📊 Technical Analysis    +    📰 Sentiment Analysis                │
-│  (RSI, MACD, SMA, BB)         (Reddit, News, Fear & Greed)         │
+│  📊 Technical Analysis    +    📰 Sentiment Analysis               │
+│  (RSI, MACD, SMA, BB)         (Reddit, News, Fear & Greed)          │
 │            │                            │                           │
 │            └──────────┬─────────────────┘                           │
 │                       ▼                                             │
-│              🧠 Trading Brain                                       │
+│              🧠 Trading Brain                                      │
 │         (Memory, Learning, Risk Mgmt)                               │
 │                       │                                             │
 │                       ▼                                             │
