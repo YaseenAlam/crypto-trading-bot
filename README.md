@@ -363,7 +363,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Yaseen**
 - Computer Science Student @ California State University Dominguez Hills
 ---
-
-<p align="center">
-  <strong>⭐ Star this repo if you found it useful! ⭐</strong>
-</p>
