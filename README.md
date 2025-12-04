@@ -41,7 +41,7 @@ The bot features a "brain" system that remembers all trades, tracks performance 
 - **Bollinger Bands** — Identifies volatility and price extremes
 - **Hourly candlestick data** — Real-time market analysis
 
-### 🔹 Sentiment Analysis Module using NLP
+### 🔹 Sentiment Analysis Module using FinBERT
 - **Fear & Greed Index** — Market-wide sentiment indicator (0-100 scale)
 - **Reddit Sentiment** — Scans r/bitcoin and r/cryptocurrency for bullish/bearish keywords
 - **News Analysis** — Processes crypto news headlines for sentiment signals
