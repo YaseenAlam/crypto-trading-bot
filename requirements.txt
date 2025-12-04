@@ -20,3 +20,8 @@ schedule>=1.2.0
 # Visualization (optional)
 matplotlib>=3.7.0
 plotly>=5.15.0
+
+# NLP / Sentiment Analysis
+transformers>=4.30.0
+torch>=2.0.0
+textblob>=0.17.0
