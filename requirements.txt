@@ -1,0 +1,22 @@
+# Coinbase API
+coinbase-advanced-py>=1.8.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Technical Analysis
+ta>=0.10.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# HTTP Requests (for sentiment analysis)
+requests>=2.31.0
+
+# Scheduling (optional)
+schedule>=1.2.0
+
+# Visualization (optional)
+matplotlib>=3.7.0
+plotly>=5.15.0
